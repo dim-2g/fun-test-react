@@ -106,7 +106,6 @@ IE на Windows. Код писали не вы, доступа к исходни
 выполненные вами. 
 #### Answer
 * Мой стек:
-- 
   - PHP (ООП), MySQL (сложные запросы, оптимизация), Git
   - Опыт работы с Yii2
   - HTML, CSS3, JavaScript (jQuery и чистый), Gulp, Photoshop, Figma,
